@@ -29,7 +29,7 @@ public class HomePageTest extends TestBase{
 	
 	@Test(priority=1)
 	public void verifyCorrectUserName() {
-		Assert.assertTrue(false);//pass this for making pass this test case homePage.verifyRightUser().
+		Assert.assertTrue( homePage.verifyRightUser());//pass this for making pass this test case homePage.verifyRightUser().
 	}
 	
 	@Test(priority=2)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing Google Apps]">
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="com.practice.SeleniumTest.SessionHandleTest">
+        <methods>
+          <include name="Config"/>
+          <include name="EndingTheMethod"/>
+          <include name="Test2"/>
+        </methods>
+      </class> <!-- com.practice.SeleniumTest.SessionHandleTest -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Testing Google Apps] -->

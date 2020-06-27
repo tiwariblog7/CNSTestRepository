@@ -1,0 +1,10 @@
+2020-06-19 01:19:22,365 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-06-19 01:19:22,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-06-19 01:19:22,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-19 01:19:22,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-19 01:19:22,368 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-19 01:19:22,528 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-06-19 01:19:22,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-06-19 01:19:22,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-19 01:19:22,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-19 01:19:22,529 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

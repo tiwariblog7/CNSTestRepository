@@ -1,0 +1,5 @@
+Thread is a part of code that can be executed independly with the program.
+Session Handling have two things to do
+    1-Able to execute test cases on different browser or can open different instance of browser.
+    2-Multiple classes can be executed parallel by defining into the testing.xml file 
+    3-Even we can define like which test case should execute first.

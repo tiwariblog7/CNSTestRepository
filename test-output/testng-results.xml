@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="104677" started-at="2020-06-18T23:04:10 IST" finished-at="2020-06-18T23:05:55 IST">
+  <suite name="Suite" duration-ms="155823" started-at="2020-06-27T23:23:06 IST" finished-at="2020-06-27T23:25:42 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="104677" started-at="2020-06-18T23:04:10 IST" finished-at="2020-06-18T23:05:55 IST">
+    <test name="TestingForCRMApplication" duration-ms="155823" started-at="2020-06-27T23:23:06 IST" finished-at="2020-06-27T23:25:42 IST">
       <class name="com.crmfaa.qa.testcases.ContactsPageTest">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="Setup" is-config="true" duration-ms="14006" started-at="2020-06-18T23:04:10 IST" finished-at="2020-06-18T23:04:24 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="Setup" is-config="true" duration-ms="14587" started-at="2020-06-27T23:23:06 IST" finished-at="2020-06-27T23:23:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="VerifyContactPageLavelTest()[pri:1, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="VerifyContactPageLavelTest" duration-ms="94" started-at="2020-06-18T23:04:24 IST" finished-at="2020-06-18T23:04:24 IST">
+        <test-method status="PASS" signature="VerifyContactPageLavelTest()[pri:1, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="VerifyContactPageLavelTest" duration-ms="134" started-at="2020-06-27T23:23:21 IST" finished-at="2020-06-27T23:23:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyContactPageLavelTest -->
-        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="LastMethod" is-config="true" duration-ms="4178" started-at="2020-06-18T23:04:24 IST" finished-at="2020-06-18T23:04:29 IST">
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="LastMethod" is-config="true" duration-ms="4117" started-at="2020-06-27T23:23:21 IST" finished-at="2020-06-27T23:23:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LastMethod -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="Setup" is-config="true" duration-ms="11446" started-at="2020-06-18T23:04:29 IST" finished-at="2020-06-18T23:04:40 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="Setup" is-config="true" duration-ms="13933" started-at="2020-06-27T23:24:09 IST" finished-at="2020-06-27T23:24:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="verifyNewButtonClickTest()[pri:2, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="verifyNewButtonClickTest" duration-ms="1493" started-at="2020-06-18T23:04:40 IST" finished-at="2020-06-18T23:04:41 IST">
+        <test-method status="PASS" signature="verifyNewButtonClickTest()[pri:2, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="verifyNewButtonClickTest" duration-ms="4848" started-at="2020-06-27T23:24:23 IST" finished-at="2020-06-27T23:24:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNewButtonClickTest -->
-        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="LastMethod" is-config="true" duration-ms="4104" started-at="2020-06-18T23:04:41 IST" finished-at="2020-06-18T23:04:46 IST">
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="LastMethod" is-config="true" duration-ms="4173" started-at="2020-06-27T23:24:28 IST" finished-at="2020-06-27T23:24:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LastMethod -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="Setup" is-config="true" duration-ms="13726" started-at="2020-06-18T23:04:46 IST" finished-at="2020-06-18T23:05:00 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="Setup" is-config="true" duration-ms="13573" started-at="2020-06-27T23:24:33 IST" finished-at="2020-06-27T23:24:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="verifyContactCreationTest(java.lang.String, java.lang.String)[pri:3, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="verifyContactCreationTest" duration-ms="8313" started-at="2020-06-18T23:05:00 IST" data-provider="getCRTestData" finished-at="2020-06-18T23:05:08 IST">
+        <test-method status="PASS" signature="verifyContactCreationTest(java.lang.String, java.lang.String)[pri:3, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="verifyContactCreationTest" duration-ms="8549" started-at="2020-06-27T23:24:47 IST" data-provider="getCRTestData" finished-at="2020-06-27T23:24:55 IST">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyContactCreationTest -->
-        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="LastMethod" is-config="true" duration-ms="4179" started-at="2020-06-18T23:05:08 IST" finished-at="2020-06-18T23:05:12 IST">
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="LastMethod" is-config="true" duration-ms="1244" started-at="2020-06-27T23:24:55 IST" finished-at="2020-06-27T23:24:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LastMethod -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="Setup" is-config="true" duration-ms="12133" started-at="2020-06-18T23:05:12 IST" finished-at="2020-06-18T23:05:24 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="Setup" is-config="true" duration-ms="15014" started-at="2020-06-27T23:24:57 IST" finished-at="2020-06-27T23:25:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="verifyContactCreationTest(java.lang.String, java.lang.String)[pri:3, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="verifyContactCreationTest" duration-ms="6897" started-at="2020-06-18T23:05:24 IST" data-provider="getCRTestData" finished-at="2020-06-18T23:05:31 IST">
+        <test-method status="PASS" signature="verifyContactCreationTest(java.lang.String, java.lang.String)[pri:3, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="verifyContactCreationTest" duration-ms="6004" started-at="2020-06-27T23:25:12 IST" data-provider="getCRTestData" finished-at="2020-06-27T23:25:18 IST">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyContactCreationTest -->
-        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="LastMethod" is-config="true" duration-ms="4217" started-at="2020-06-18T23:05:31 IST" finished-at="2020-06-18T23:05:35 IST">
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="LastMethod" is-config="true" duration-ms="100" started-at="2020-06-27T23:25:18 IST" finished-at="2020-06-27T23:25:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LastMethod -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="Setup" is-config="true" duration-ms="11800" started-at="2020-06-18T23:05:35 IST" finished-at="2020-06-18T23:05:47 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="Setup" is-config="true" duration-ms="15220" started-at="2020-06-27T23:25:18 IST" finished-at="2020-06-27T23:25:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="verifyContactCreationTest(java.lang.String, java.lang.String)[pri:3, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="verifyContactCreationTest" duration-ms="7443" started-at="2020-06-18T23:05:47 IST" data-provider="getCRTestData" finished-at="2020-06-18T23:05:55 IST">
+        <test-method status="PASS" signature="verifyContactCreationTest(java.lang.String, java.lang.String)[pri:3, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="verifyContactCreationTest" duration-ms="8692" started-at="2020-06-27T23:25:33 IST" data-provider="getCRTestData" finished-at="2020-06-27T23:25:42 IST">
           <params>
             <param index="0">
               <value>
@@ -99,11 +99,63 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyContactCreationTest -->
-        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@ed9d034]" name="LastMethod" is-config="true" duration-ms="172" started-at="2020-06-18T23:05:55 IST" finished-at="2020-06-18T23:05:55 IST">
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.ContactsPageTest@612fc6eb]" name="LastMethod" is-config="true" duration-ms="248" started-at="2020-06-27T23:25:42 IST" finished-at="2020-06-27T23:25:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LastMethod -->
       </class> <!-- com.crmfaa.qa.testcases.ContactsPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.crmfaa.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crmfaa.qa.testcases.LoginPageTest@4eb7f003]" name="SetUp" is-config="true" duration-ms="9386" started-at="2020-06-27T23:23:25 IST" finished-at="2020-06-27T23:23:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.crmfaa.qa.testcases.LoginPageTest@4eb7f003]" name="loginPageTitleTest" duration-ms="8" started-at="2020-06-27T23:23:34 IST" finished-at="2020-06-27T23:23:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.LoginPageTest@4eb7f003]" name="LastMethod" is-config="true" duration-ms="0" started-at="2020-06-27T23:23:34 IST" finished-at="2020-06-27T23:23:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastMethod -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crmfaa.qa.testcases.LoginPageTest@4eb7f003]" name="SetUp" is-config="true" duration-ms="10486" started-at="2020-06-27T23:23:46 IST" finished-at="2020-06-27T23:23:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.crmfaa.qa.testcases.LoginPageTest@4eb7f003]" name="loginTest" duration-ms="374" started-at="2020-06-27T23:23:56 IST" finished-at="2020-06-27T23:23:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="LastMethod()[pri:0, instance:com.crmfaa.qa.testcases.LoginPageTest@4eb7f003]" name="LastMethod" is-config="true" duration-ms="1" started-at="2020-06-27T23:23:57 IST" finished-at="2020-06-27T23:23:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastMethod -->
+      </class> <!-- com.crmfaa.qa.testcases.LoginPageTest -->
+      <class name="com.crmfaa.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.HomePageTest@eafc191]" name="Setup" is-config="true" duration-ms="9724" started-at="2020-06-27T23:23:34 IST" finished-at="2020-06-27T23:23:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyCorrectUserName()[pri:1, instance:com.crmfaa.qa.testcases.HomePageTest@eafc191]" name="verifyCorrectUserName" duration-ms="1383" started-at="2020-06-27T23:23:44 IST" finished-at="2020-06-27T23:23:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectUserName -->
+        <test-method status="PASS" signature="Done()[pri:0, instance:com.crmfaa.qa.testcases.HomePageTest@eafc191]" name="Done" is-config="true" duration-ms="188" started-at="2020-06-27T23:23:46 IST" finished-at="2020-06-27T23:23:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Done -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.crmfaa.qa.testcases.HomePageTest@eafc191]" name="Setup" is-config="true" duration-ms="9901" started-at="2020-06-27T23:23:57 IST" finished-at="2020-06-27T23:24:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyContactClick()[pri:2, instance:com.crmfaa.qa.testcases.HomePageTest@eafc191]" name="verifyContactClick" duration-ms="2395" started-at="2020-06-27T23:24:06 IST" finished-at="2020-06-27T23:24:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactClick -->
+        <test-method status="PASS" signature="Done()[pri:0, instance:com.crmfaa.qa.testcases.HomePageTest@eafc191]" name="Done" is-config="true" duration-ms="350" started-at="2020-06-27T23:24:09 IST" finished-at="2020-06-27T23:24:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Done -->
+      </class> <!-- com.crmfaa.qa.testcases.HomePageTest -->
+    </test> <!-- TestingForCRMApplication -->
+  </suite> <!-- Suite -->
 </testng-results>
